@@ -1,2 +1,3 @@
-# eeee
-eee
+# Base code for CustomCobbleGen
+
+WIP
